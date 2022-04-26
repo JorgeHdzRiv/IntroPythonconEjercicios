@@ -1,7 +1,12 @@
 # Repositorio del curso de Introduccion a python
 
-| Nombre | Link al repo |
+| Proyecto | Numero | Link al repo |
 | ------------- |:-------------:| -----:|
-|`introduccion`|[Link al repo](./IntroProgramacionPython.ipynb)|
-|`exercises`|[Link al repo](./exercises/)|
+|`introduccio python cuaderno`|1|[Link al repo](./IntroProgramacionPython.ipynb)|
+|`positivo o negativo`|2|[Link al repo](./exercises/T1E1_pos_neg.py)|
 
+
+
+**Disponible para cualquier duda o comentario**
+
+Agradezco el que estes aqui 😁
