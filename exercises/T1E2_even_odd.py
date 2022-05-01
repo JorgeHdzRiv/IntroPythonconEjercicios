@@ -3,7 +3,6 @@ Date:       2022-04-29
 Authors:    Jorge de Jesus Hernandez Rivera
 File:       T1E2_even_odd.py
 Brief:      Programa que determina si un numero entero es par o impar
-Score:      110
 Version:    1.1.1
 Fixes:     
 """
