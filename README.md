@@ -18,6 +18,7 @@ En este repositorio se brindan cuadernos de Introduccion a Python algunos proble
 | ------------- |:-------------:| -----:|
 |`ciclos`|1|[Link al repo](./challenges/Ciclos_challenge.ipynb)|
 |`operadores logicos`|2|[Link al repo](./challenges/operadores_logicos.ipynb)|
+|`funciones`|3|[Link al repo](./challenges/funciones.ipynb)|
 
 
 
