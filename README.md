@@ -6,6 +6,7 @@ En este repositorio se brindan cuadernos de Introduccion a Python algunos proble
 | ------------- |:-------------:| -----:|
 |`introduccio python cuaderno`|1|[Link al repo](./notebooks/IntroProgramacionPython.ipynb)|
 |`condicionales ciclos y listas`|2|[Link al repo](./notebooks/Condicionales_Ciclos_y_Listas.ipynb)|
+|`Clases y objetos`|3|[Link al repo](./notebooks/Programaci%C3%B3n_Orientada_a_Objetos.ipynb)|
 
 
 | Proyecto | Numero | Link al repo |
